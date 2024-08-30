@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @frankstop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in the thought emporium, nile blue, and historia civilis
+- 🌱 I’m currently learning java, c++, javascript, linux kali
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me at my school email, visible.
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I barely know what I am doing
 
 <!---

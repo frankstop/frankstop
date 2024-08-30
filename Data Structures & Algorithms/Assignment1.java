@@ -1,0 +1,1 @@
+/*Do not copy and paste my work.*/ public class Assignment1{public Assignment1(){}public static void main(String[] args){Assignment1 a1 = new Assignment1();int[] a = {12, 5 , 10, 103, 50};System.out.println(a1.getMax(a1));}public int getMax(int[] a){result = a[0];for(int i = 1; i < a.length; i++){if(a[i] > result)result = a[i];}return result;}}
