@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankstop
 - 👀 I’m interested in Surfing and Skateboarding
-- 🌱 I’m currently learning how to talk
+- 🌱 I’m currently learning which workouts I enjoy
 - 📫 How to reach me at my school email, visible.
 - ⚡ Fun fact: I dont like my current job
 
