@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning which workouts I enjoy
 - 📫 How to reach me. 
   https://www.linkedin.com/in/frankiejvaldez/
+  
   frankiejvaldez@gmail.com
 - ⚡ Fun fact: I aspire to be a responsible cat dad
 
