@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @frankstop
-- 👀 I’m interested in Surfing and Skateboarding
--   LFW > Software Engi, Data Analizer, Senior Desktop Support
+- 👀 I’m interested in Surfing, Skateboarding and Programming.  Not at the same time.  
+- 👨‍🔧 Looking For Work > Software Engineer, Data Analyst, Senior Desktop Support, Computer Associate
 - 🌱 I’m currently learning which workouts I enjoy
 - 📫 How to reach me. 
+
   https://www.linkedin.com/in/frankiejvaldez/
-  
   frankiejvaldez@gmail.com
+  
 - ⚡ Fun fact: I aspire to be a responsible cat dad
 
 <!---
