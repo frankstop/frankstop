@@ -1,12 +1,35 @@
 # Frank Valdez | Software + Data Projects
 
-I build Python automation, public dashboards, and data workflows with a practical systems support background.
+[![Profile views](https://komarev.com/ghpvc/?username=frankstop&style=for-the-badge&color=0e75b6)](https://github.com/frankstop)
+
+## About Me
+
+I build automations, public dashboards, developer tools, and data workflows.
+
+My background in desktop support.
+
+Currently targeting software engineering and data analyst roles where automation, debugging, dashboards, and user-facing systems matter.
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ## Selected Work
 
 - [JobBoard](https://github.com/frankstop/JobBoard) - Company-first job board that refreshes from official career feeds and publishes a searchable GitHub Pages dashboard.
 - [civil-service-watch](https://github.com/frankstop/civil-service-watch) - Daily monitor for public-sector hiring and civil service exam pages, with structured extraction, source-health reporting, and a public dashboard.
 - [KingKullenResearch](https://github.com/frankstop/KingKullenResearch) - Weekly grocery pricing pipeline that collects longitudinal product data and explores pricing patterns through analysis and modeling.
+- [SDKGenerator](https://github.com/frankstop/SDKGenerator) - OpenAPI client SDK generator for TypeScript, Python, Go, Ruby, and Java.
+- [f-ast](https://github.com/frankstop/f-ast) - CommonAST and best-effort SymbolGraph parser for legacy Java and C# code.
 
 ## Portfolio / Gallery
 
@@ -25,17 +48,8 @@ I build Python automation, public dashboards, and data workflows with a practica
 - [ThisIsTheOnlyLevel](https://github.com/frankstop/ThisIsTheOnlyLevel) - Small browser game experiment.
 - [mypassion](https://github.com/frankstop/mypassion) - Satirical web sketch.
 
-## Currently Targeting
-
-- Software Engineer roles
-- Data Analyst roles
-- Work where automation, debugging, dashboards, and user-facing systems all matter
-
-My desktop support background shows up in how I debug, document, and think about real users.
-
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/frankiejvaldez/)
 - [GitHub](https://github.com/frankstop)
-- [PortfolioRoulette](https://frankstop.github.io/PortfolioRoulette/)
 - Email: frankiejvaldez@gmail.com
