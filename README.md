@@ -51,5 +51,4 @@ Currently targeting software engineering and data analyst roles where automation
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/frankiejvaldez/)
-- [GitHub](https://github.com/frankstop)
 - Email: frankiejvaldez@gmail.com
