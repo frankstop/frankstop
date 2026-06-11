@@ -31,11 +31,10 @@ Currently targeting software engineering and data analyst roles where automation
 
 ## Selected Work
 
+- [Marchetti's Apartment](https://github.com/frankstop/marchettis-apartment) - Proximity-based housing intelligence platform — score any address by lifestyle accessibility within your travel budget.
 - [JobBoard](https://github.com/frankstop/JobBoard) - Company-first job board that refreshes from official career feeds and publishes a searchable GitHub Pages dashboard.
 - [civil-service-watch](https://github.com/frankstop/civil-service-watch) - Daily monitor for public-sector hiring and civil service exam pages, with structured extraction, source-health reporting, and a public dashboard.
 - [KingKullenResearch](https://github.com/frankstop/KingKullenResearch) - Weekly grocery pricing pipeline that collects longitudinal product data and explores pricing patterns through analysis and modeling.
-- [SDKGenerator](https://github.com/frankstop/SDKGenerator) - OpenAPI client SDK generator for TypeScript, Python, Go, Ruby, and Java.
-- [f-ast](https://github.com/frankstop/f-ast) - CommonAST and best-effort SymbolGraph parser for legacy Java and C# code.
 
 ## Portfolio / Gallery
 
@@ -45,6 +44,8 @@ Currently targeting software engineering and data analyst roles where automation
 
 ## Learning / Experiments
 
+- [SDKGenerator](https://github.com/frankstop/SDKGenerator) - OpenAPI client SDK generator for TypeScript, Python, Go, Ruby, and Java.
+- [f-ast](https://github.com/frankstop/f-ast) - CommonAST and best-effort SymbolGraph parser for legacy Java and C# code.
 - [DecisionTree_BreastCancer](https://github.com/frankstop/DecisionTree_BreastCancer) - Decision tree classification notebook/site for model evaluation practice.
 - [Movies_Project](https://github.com/frankstop/Movies_Project) - Movie data cleaning, visualization, and exploratory analysis project.
 - [HandSynth](https://github.com/frankstop/HandSynth) - Browser-based hand-controlled synthesizer experiment.
