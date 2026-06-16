@@ -1,14 +1,10 @@
-# Frank Valdez | Software + Data Projects
+# Frank Valdez
 
 [![Profile views](https://komarev.com/ghpvc/?username=frankstop&style=for-the-badge&color=0e75b6)](https://github.com/frankstop)
 
 ## About Me
 
-I build automation, public dashboards, developer tools, and data workflows.
-
-My background in desktop support.
-
-Currently targeting software engineering and data analyst roles where automation, debugging, dashboards, and user-facing systems matter.
+Hi!  I like to mess around and have been playing around with computers for a while.  I started by supporting companies after completing my IT Support certification.  More recently I started trying to see what I can and cant make as a software developer.  I haven't been practicing with data for a while despite being pretty good at it.  I've been more focused on learning and mastering using AI tools for the past year. 
 
 ## Tech Stack
 
