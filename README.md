@@ -34,9 +34,7 @@ Hi!  I like to mess around and have been playing around with computers for a whi
 
 ## Portfolio / Gallery
 
-- [PortfolioRoulette](https://github.com/frankstop/PortfolioRoulette) - Static chooser-gallery for browsing multiple portfolio experiences from one entry point.
 - [Portfolio](https://github.com/frankstop/Portfolio) - Personal portfolio site with background, project, education, and contact pages.
-- [FranksGithub](https://github.com/frankstop/FranksGithub) - Public repo gallery that previews GitHub projects and their live Pages sites.
 
 ## Learning / Experiments
 
