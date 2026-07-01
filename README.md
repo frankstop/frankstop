@@ -12,9 +12,8 @@ I earned a B.S. in Computer & Information Science from SUNY Old Westbury in Augu
 
 ### [frankiejvaldez.com](https://frankiejvaldez.com/)
 
-My main portfolio brings together my [background](https://frankiejvaldez.com/about.html), [skills](https://frankiejvaldez.com/skills.html), [projects](https://frankiejvaldez.com/projects.html), [experience](https://frankiejvaldez.com/experience.html), [education](https://frankiejvaldez.com/education.html), and [contact details](https://frankiejvaldez.com/contact.html).
+My portfolio combines custom canvas animations, shared Jekyll components, and live integrations with independently deployed GitHub projects. Explore my [background](https://frankiejvaldez.com/about.html), [skills](https://frankiejvaldez.com/skills.html), [projects](https://frankiejvaldez.com/projects.html), [experience](https://frankiejvaldez.com/experience.html), [education](https://frankiejvaldez.com/education.html), and [contact details](https://frankiejvaldez.com/contact.html).
 
-The site showcases interactive projects, technical experience, and selected work. It is built as a multi-page static site using HTML, CSS, JavaScript, Tailwind CSS, Canvas/WebGL, D3.js, and Plotly.js. Browse the [Projects page](https://frankiejvaldez.com/projects.html) for deeper project cards and live examples.
 
 ## Selected Work
 
