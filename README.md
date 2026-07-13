@@ -6,7 +6,7 @@
 
 I am an IT professional and creative developer based in the NYC area. My operations experience includes POS and back-office systems, SQL workflows, device and infrastructure troubleshooting, process improvement, and automation. I also build static sites, data pipelines, dashboards, interactive web apps, and browser games, with a focus on AI-assisted workflow design and verifiable results.
 
-I earned a B.S. in Computer & Information Science from SUNY Old Westbury in August 2025 and hold Google UX Design and Google IT Support certificates. Away from technical work, I enjoy design, playing games, staying poolside, and building playful projects.
+I earned a B.S. in Computer & Information Science from SUNY Old Westbury in August 2025 and hold Google UX Design and Google IT Support certificates. Away from technical work, I enjoy meeting new people, playing games, staying poolside, and building playful projects.
 
 ## Visit My Website
 
