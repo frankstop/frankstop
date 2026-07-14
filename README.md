@@ -17,6 +17,10 @@ My portfolio combines custom canvas animations, shared Jekyll components, and li
 
 ## Selected Work
 
+### [Shredded Flat Abs](https://github.com/frankstop/ShreddedFlatAbs) · [Live tool](https://frankstop.github.io/ShreddedFlatAbs/)
+
+A 6-day calisthenics and posture program (Mon–Sat, Sun rest) with a music-player-style interface: day playlists, exercises as tracks, and a Now Playing panel that loads each exercise's reference video with Prev/Next navigation.
+
 ### [GoodJob](https://github.com/frankstop/GoodJob) · [Live dashboard](https://frankstop.github.io/GoodJob/)
 
 A static technical job dashboard that normalizes employer-direct Greenhouse, Lever, and Ashby feeds, then adds search, aging, sorting, filters, and local saves. Its scheduled Node.js pipeline, adapter boundaries, schema checks, and failure-tolerant refresh process show practical data automation without a runtime server.
@@ -25,9 +29,9 @@ A static technical job dashboard that normalizes employer-direct Greenhouse, Lev
 
 A weekly grocery-pricing pipeline that collects versioned product snapshots and produces analysis, price modeling, anomaly detection, and an interactive dashboard. It connects Python data engineering, repeatable model evaluation, GitHub Actions, and a real retail operations use case.
 
-### [SDKGenerator](https://github.com/frankstop/SDKGenerator) · [Live playground](https://frankstop.github.io/SDKGenerator/)
+### [StopShopResearch](https://github.com/frankstop/StopShopResearch) · [Live analytics](https://frankstop.github.io/StopShopResearch/)
 
-A TypeScript tool that turns OpenAPI 3.x specifications into client libraries for TypeScript, Python, Go, Ruby, and Java through a CLI or browser playground. It demonstrates structured parsing, multi-target code generation, Vite deployment, and a clear developer-tool workflow.
+Automated longitudinal research on Stop & Shop's anonymous public online catalog. Every Sunday, the project discovers the current grocery sitemap, collects structured product observations from allowed category pages, validates the result, compares it with prior successful weeks, and publishes price intelligence plus a searchable all-item price history.
 
 ## Fun Projects & Games
 
