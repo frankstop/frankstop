@@ -35,6 +35,7 @@ Automated longitudinal research on Stop & Shop's anonymous public online catalog
 
 ## Fun Projects & Games
 
+- [ITS TimeSharing](https://github.com/frankstop/TimeSharing) · [Play](https://frankstop.github.io/TimeSharing/): Interactive MIT AI Lab PDP-10 operating system simulator, featuring MACLISP, TECO/EMACS, Zork, ARPANET, and CRT audio synthesis.
 - [Crossy Sprint](https://github.com/frankstop/CrossySprint) · [Play](https://frankstop.github.io/CrossySprint/): Arctic lane-crossing game with endless seeded generation, keyboard and touch controls, collectibles, and offline PWA support.
 - [WingSprint](https://github.com/frankstop/WingSprint) · [Play](https://frankstop.github.io/WingSprint/): One-tap pixel arcade game built with TypeScript and Vite for portrait iPhones, with PWA support and gameplay analytics.
 - [Pressure Match](https://github.com/frankstop/PressureMatch) · [Play](https://frankstop.github.io/PressureMatch/): Match-3 survival game with an 8x8 board, cascades, run stats, pressure meter, display modes, and local high scores.
