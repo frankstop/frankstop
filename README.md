@@ -10,4 +10,3 @@
 ### [frankiejvaldez.com](https://frankiejvaldez.com/)
 
 My portfolio combines custom canvas animations, shared Jekyll components, and live integrations with independently deployed GitHub projects. Explore my [background](https://frankiejvaldez.com/about.html), [skills](https://frankiejvaldez.com/skills.html), [projects](https://frankiejvaldez.com/projects.html), [experience](https://frankiejvaldez.com/experience.html), [education](https://frankiejvaldez.com/education.html), and [contact details](https://frankiejvaldez.com/contact.html).
-evaluation.
